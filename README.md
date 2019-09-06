@@ -1,5 +1,12 @@
 # Stock Trading Predictions Using AAPL as an example
 
+1. Loading YahooFinance Dataset 
+2. Exploring Rolling Mean and Return Rate of Stocks
+3. Feature Engineering
+4. Pre-processing & Cross Validation
+5. Model Generation 
+6. Plotting the Prediction
+
 ```python
 import pandas as pd
 import datetime
